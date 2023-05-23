@@ -8,7 +8,9 @@ Generate a model which takes vectorized image as a reference
 [PNG : Google Drive](https://drive.google.com/file/d/1L3pvv0x3othq_s9wxuy_nRfjxuWMLc7n/view?usp=share_link)
 
 #### Urban100 4x SR dataset
-[4x SRCNN : Google Drive](https://drive.google.com/file/d/1XP3bNE3jv5wxOedKsSGwQC-f9CqIyjfF/view?usp=share_link)
+[4x SRCNN : Google Drive](https://drive.google.com/file/d/1XP3bNE3jv5wxOedKsSGwQC-f9CqIyjfF/view?usp=share_link)<br>
+[4x SRGAN : Google Drive](https://drive.google.com/drive/folders/1iaM-c6EgT1FNoJAOKmDrK7YhEhtlKcLx)<br>
+[4x HAT : Google Drive](https://drive.google.com/drive/folders/1t2RdesqRVN7L6vCptneNRcpwZAo-Ub3L)
 <!--
 
 **Here are some ideas to get you started:**
