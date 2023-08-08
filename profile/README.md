@@ -3,14 +3,15 @@
 ### Outline
 Catch the relationship between Batch normalization and Quantization
 
-
-
-
-
-
-
-
-
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
 ## 2023 Engineering Design
 
