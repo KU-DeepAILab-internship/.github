@@ -1,3 +1,10 @@
+## 2023 Summer internship
+
+### Outline
+Catch the relationship between Batch normalization and Quantization
+
+
+
 ## 2023 Engineering Design
 
 ### Outline
